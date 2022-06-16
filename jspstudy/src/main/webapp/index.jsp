@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>메인 페이지 입니다. git test1111</h1>
+<h1>메인 페이지 입니다. git test11112222</h1>
 
 <% 
 //Dbconn dbconn = new Dbconn();
